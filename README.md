@@ -26,4 +26,3 @@ Feel free to check out the dashboard on Tableau Public -> https://public.tableau
 
 
 
-<img width="1211" alt="image" src="https://user-images.githubusercontent.com/97498951/181904687-7a8e0037-52a7-4fc3-8e5f-35374181f5dd.png">
