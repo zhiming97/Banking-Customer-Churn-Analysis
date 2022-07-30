@@ -1,4 +1,4 @@
-# Airbnb Listing Analysis In New York City 
+# Banking Customers Churn Analysis
 
 Background Information
 - This dataset contains information of 10,000 banking customers.
