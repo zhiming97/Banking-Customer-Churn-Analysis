@@ -5,6 +5,10 @@
 
 
 ### Findings
+<p align="justify">
+
+This project utilizes the conversation between 2 parties which were being exported from Whatsapp.
+
 - The bank in Germany had the highest churn rate. This could be due to the low performance of the bank or rather the bank is facing stiff competitors in Germany.
 Late middle aged customers (45 to 64 years old) are
 more likely to quit the bank.
@@ -18,6 +22,7 @@ to leave the bank
 - Revamping the bank's existing product offerings and to be more competitive in terms of pricing and rates
 - Leverage on big data technologies to reducecustomer churn e.g. create predictive models and produce analytics-driven approach
 
+</p>
 Feel free to check out the dashboard on Tableau Public -> https://public.tableau.com/app/profile/zhiming/viz/BankCustomersChurnAnalysis/story
 
 <img width="1207" alt="image" src="https://user-images.githubusercontent.com/97498951/181904663-11cd6006-0506-424a-9352-86018b381d6b.png">
