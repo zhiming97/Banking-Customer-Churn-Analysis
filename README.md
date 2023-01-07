@@ -1,9 +1,10 @@
 # Banking Customers Churn Analysis
 
-Background Information
+### Background Information
 - This dataset contains information of 10,000 banking customers.
 
-Findings
+
+### Findings
 - The bank in Germany had the highest churn rate. This could be due to the low performance of the bank or rather the bank is facing stiff competitors in Germany.
 Late middle aged customers (45 to 64 years old) are
 more likely to quit the bank.
@@ -12,7 +13,7 @@ more likely to quit the bank.
 to leave the bank
 - All of the customers who are subscribed to 4 products have churned because the products or services of the bank might not be able to meet the expectations of the customers. Hence, the more products that the customer subscribed, they are more likely to look for other alternatives and finally opt for products from another bank.
 
-Recommendations 
+### Recommendations 
 - Initiating customer engagement via various communication channels to collect customer's feedback
 - Revamping the bank's existing product offerings and to be more competitive in terms of pricing and rates
 - Leverage on big data technologies to reducecustomer churn e.g. create predictive models and produce analytics-driven approach
