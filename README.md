@@ -7,7 +7,7 @@
 ### Findings
 <p align="justify">
 
-This project utilizes the conversation between 2 parties which were being exported from Whatsapp.
+
 
 - The bank in Germany had the highest churn rate. This could be due to the low performance of the bank or rather the bank is facing stiff competitors in Germany.
 Late middle aged customers (45 to 64 years old) are
